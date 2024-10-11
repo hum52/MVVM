@@ -1,0 +1,18 @@
+table {
+    width: 50%;
+    margin-top: 20px;
+    border: 1px solid #ddd;
+}
+th {
+    background-color: #dfeefd;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+.add-button {
+    margin-top: 20px;
+}
